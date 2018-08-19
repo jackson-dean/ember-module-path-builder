@@ -1,12 +1,12 @@
 {
   "name": "ember-module-path-builder",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ember-module-path-builder",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/jackson-dean/ember-module-path-builder",
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Jackson Dean",
+    "email": "jckson.dean@gmail.com",
     "url": ""
   },
   "keywords": [""],
